@@ -23,21 +23,4 @@ The repository includes C++ implementations of the Matrix and Pixel classes. The
 - **pixel.cpp:** Implementation file for the Pixel class.
 - **main1.cpp, main2.cpp, main3.cpp:** Example usage of the Matrix and Pixel classes.
 
-## Usage
 
-To use the Matrix and Pixel classes, include the respective header files in your project:
-
-```cpp
-#include "matrix.h"
-#include "pixel.h"
-# Pixel Class
-
-The Pixel class represents a color pixel with RGB values. It includes functionality for checking and setting RGB values.
-
-## Examples
-
-Check the provided example files (`main1.cpp`, `main2.cpp`, `main3.cpp`) for detailed usage examples of the Matrix and Pixel classes.
-
-## License
-
-This project is licensed under the MIT License. Feel free to explore and adapt the code for your own projects! If you encounter any issues or have suggestions for improvement, please open an issue.
